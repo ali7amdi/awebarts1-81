@@ -1,0 +1,7 @@
+Hack and Security::
+
+1- SQL Injection:
+    -> Validator.php
+    -> Using PDO # PHP Data Object
+
+2- 
